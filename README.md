@@ -11,13 +11,13 @@ Projeto acadêmico desenvolvido na disciplina de **Planejamento e Pesquisa**, co
 
 ## Dados
 
-O conjunto de dados analisado foi extraído do **Problema 5.8** da obra *Design and Analysis of Experiments*, de Douglas C. Montgomery.
+O conjunto de dados analisado foi extraído do Problema 5.8 da obra *Design and Analysis of Experiments*, de Douglas C. Montgomery.
 
 O experimento considera dois fatores:
-- **Temperatura**
-- **Pressão**
+- Temperatura
+- Pressão
 
-A variável resposta analisada é o **rendimento do processo químico**.
+A variável resposta analisada é o rendimento do processo químico.
 
 ## Ferramentas
 
@@ -26,6 +26,6 @@ A variável resposta analisada é o **rendimento do processo químico**.
 
 ## Arquivos
 
-- `P2.R`: código utilizado para a realização das análises estatísticas e modelagem;
-- `Relatorio_P2.pdf`: relatório final do projeto, contendo a metodologia, os resultados e a discussão;
+- `Analise_Rendimento_Processo_Quimico.R`: código utilizado para a realização das análises estatísticas e modelagem;
+- `Relatorio_Projeto.pdf`: relatório final do projeto, contendo a metodologia, os resultados e a discussão;
 - `Algoritmo_Fluxograma.pdf`: representação do algoritmo e do fluxograma das etapas realizadas no projeto.
